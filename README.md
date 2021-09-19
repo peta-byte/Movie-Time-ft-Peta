@@ -1,5 +1,11 @@
 # Movie Time ft Peta
-This is another simple React Native app per a Pluralsight course by Richard Monson-Hafael on Building Mobile Apps with React Native. There may be some differences here from the actual course's. To use these files:
+This is another simple React Native app per a Pluralsight course by Richard Monson-Hafael on Building Mobile Apps with React Native. There may be some differences here from the actual course's. 
+
+<p align="center">
+<img height="300" width="200" src="https://github.com/peta-byte/Movie-Time-ft-Peta/blob/master/movie%20time.png?raw=true" />
+</p>
+
+To use these files:
 
 Ideally, go over the course but...you can:
 
